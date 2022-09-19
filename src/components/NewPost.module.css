@@ -1,0 +1,15 @@
+.btn{
+    background-color: rgba(26, 209, 114, 0.904);
+    border: none;
+    padding: 16px;
+    border-radius: 16px;
+    font-size: 22px;
+    
+}
+.allbtns{
+    display: flex;
+    align-items: center;
+    gap: 400px;
+    margin:0px 300px;
+   
+}

@@ -1,0 +1,21 @@
+
+  
+  .btn {
+    font: inherit;
+    color: white;
+    cursor: pointer;
+    background-color: green;
+    border: none;
+    border-radius: 25px;
+    padding: 0.5rem 2rem; 
+    margin: 5px  230px;
+}
+  
+  
+  .title{
+    width: 45%;
+    padding: 10px;
+    margin: 20px 100px;
+  }
+  
+  
